@@ -1,6 +1,6 @@
 # Dynamic Programming (동적 계획법)
 
-| 인덱스 접근 N=1인데 dp[2] 이런 인덱스에 접근하지 않도록 유의한다.
+**NOTE: 인덱스 접근 N=1인데 dp[2] 이런 인덱스에 접근하지 않도록 유의한다.**
 
 Dynamic Programming은 큰 문제를 작은 문제로 나누고, 한번 계산한 하위 문제의 결과값을 저장(Memoization/Tabulation)하여 중복 계산을 방지한다.
 
